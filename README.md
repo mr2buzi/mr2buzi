@@ -53,6 +53,25 @@ Stack includes:
 
 ---
 
+## ⚡ Upcoming Project
+
+### Deadline — Pressure Driven Execution Platform
+
+🌐 https://deadline-dun-seven.vercel.app/
+
+Deadline is a SaaS platform designed to help people **execute consistently on goals through accountability and pressure mechanics**.
+
+Instead of traditional productivity apps, Deadline focuses on:
+- public accountability
+- execution tracking
+- structured workflows
+- scoreboard-style progress systems
+
+Built with:
+React • TypeScript • Backend APIs • SaaS architecture
+
+🚧 Currently in active development.
+
 ## 🛠 Tech Stack
 
 **Languages**
