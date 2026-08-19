@@ -1,115 +1,29 @@
-# Hi, I'm Uzayr 👋
+# Uzayr Qureshi
 
-Computer Science student at **Cardiff University (BSc)** focused on building real systems across **software engineering, SaaS platforms and simulation tooling**.
+Computer Science student at Cardiff University building backend systems, AI-assisted tools, databases and IoT products.
 
-I enjoy building products end-to-end — from backend architecture and APIs to frontend interfaces and deployment.
+## Selected engineering projects
 
----
+- [Relay-Flow](https://github.com/mr2buzi/Relay-Flow) — Rust workflow execution engine with durable state, retries, idempotent triggers, dead-letter handling, replay and conditional branching.
+- [Database Control Room](https://github.com/mr2buzi/Database-Control-Room) — relational database prototype and desktop workbench built around SQL parsing, page storage, indexes and transaction concepts.
+- [FraudShield](https://github.com/mr2buzi/Fraud-Detector-) — FastAPI/React fraud-operations platform for transaction scoring, alert triage and analyst decisions.
+- [MAO Kitty](https://github.com/mr2buzi/kitty-monitor) — local-first Raspberry Pi monitoring platform using Python, Express, SQLite and React.
+- [Vehicle Simulator](https://github.com/mr2buzi/Vehicle-Simulator) — Python numerical simulation and reproducible report generation.
 
-## 🚀 What I'm Building
+## Private product work
 
-### Deadline
-A pressure-driven execution platform designed to help people stay accountable and ship work consistently.
+- **Deadline** — accountability and sprint-management product. [Live application](https://deadline-dun-seven.vercel.app/); source remains private.
+- **Phone Copilot** — local-first messaging assistant using retrieval, confidence thresholds and local/external model fallbacks. The repository remains private because its development data includes personal conversations; a controlled technical walkthrough is available on request.
 
-Features include:
-- task execution tracking
-- public accountability scoreboard
-- structured workflow templates
-- SaaS architecture with React + backend APIs
+## Technical toolkit
 
----
+**Languages:** Python, TypeScript/JavaScript, Rust, SQL, Java and C  
+**Frontend:** React, Next.js, Vite, Tailwind CSS and Electron  
+**Backend:** FastAPI, Node.js, Express and Axum  
+**Data:** PostgreSQL, SQLite, Firestore and SQLx  
+**Delivery:** Docker, GitHub Actions, Linux, Vercel and Firebase
 
-### Vehicle Dynamics Simulator
-A Python engineering simulation modelling **longitudinal vehicle dynamics**.
+## Links
 
-The simulator estimates:
-- 0–60 acceleration
-- traction limits
-- aerodynamic drag
-- gear ratio effects
-
-Outputs include charts and an engineering report.
-
----
-
-### FraudShield
-A backend-focused project demonstrating **transaction risk scoring pipelines**.
-
-Features:
-- REST API transaction ingestion
-- ML risk scoring
-- alert generation workflows
-- operational monitoring
-
----
-
-### IoT Monitoring System
-Raspberry Pi + sensor system for real-time environmental monitoring.
-
-Stack includes:
-- Raspberry Pi + Grove sensors
-- ThingsBoard telemetry dashboards
-- Node/React data visualisation
-
----
-
-## ⚡ Upcoming Project
-
-### Deadline — Pressure Driven Execution Platform
-
-🌐 https://deadline-dun-seven.vercel.app/
-
-Deadline is a SaaS platform designed to help people **execute consistently on goals through accountability and pressure mechanics**.
-
-Instead of traditional productivity apps, Deadline focuses on:
-- public accountability
-- execution tracking
-- structured workflows
-- scoreboard-style progress systems
-
-Built with:
-React • TypeScript • Backend APIs • SaaS architecture
-
-🚧 Currently in active development.
-
-## 🛠 Tech Stack
-
-**Languages**
-- Python
-- JavaScript / TypeScript
-- SQL
-
-**Backend**
-- Node.js
-- REST APIs
-- Firebase
-- Express
-
-**Frontend**
-- React
-- Next.js
-- TailwindCSS
-
-**Systems / Tools**
-- Linux
-- Docker
-- Git
-- Raspberry Pi / IoT
-
----
-
-## 📈 What I'm Focused On
-
-- SaaS product architecture
-- backend system design
-- distributed systems fundamentals
-- simulation & engineering software
-- building products that solve real problems
-
----
-
-## 📫 Contact
-
-LinkedIn: kedin.com/in/uzayr-qureshi-b2a8ba245/
-
----
+- [Portfolio](https://uzayr.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/uzayr-qureshi-b2a8ba245/)
