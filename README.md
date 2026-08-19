@@ -12,8 +12,8 @@ Computer Science student at Cardiff University building backend systems, AI-assi
 
 ## Private product work
 
-- **Deadline** — accountability and sprint-management product. [Live application](https://deadline-dun-seven.vercel.app/); source remains private.
-- **Phone Copilot** — local-first messaging assistant using retrieval, confidence thresholds and local/external model fallbacks. The repository remains private because its development data includes personal conversations; a controlled technical walkthrough is available on request.
+- **Deadline** — accountability and sprint-management product. [Live application](https://deadline-dun-seven.vercel.app/) · [Public case study](./DEADLINE_CASE_STUDY.md). Source remains private.
+- **Phone Copilot** — local-first messaging assistant using retrieval, confidence thresholds and local/external model fallbacks. [Public case study](./PHONE_COPILOT_CASE_STUDY.md). Source remains private because its development data includes personal conversations.
 
 ## Technical toolkit
 
