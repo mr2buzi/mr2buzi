@@ -1,4 +1,4 @@
-# Deadline — Public Engineering Case Study
+# Deadline: Public Engineering Case Study
 
 [Open the live application](https://deadline-dun-seven.vercel.app/)
 

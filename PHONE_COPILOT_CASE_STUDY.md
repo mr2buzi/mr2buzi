@@ -1,4 +1,4 @@
-# Phone Copilot — Public Engineering Case Study
+# Phone Copilot: Public Engineering Case Study
 
 Phone Copilot is a local-first, supervised messaging assistant for an Android phone. It observes message context, retrieves relevant examples, creates a reply plan, drafts a response and validates the result before it can be shown or sent.
 
