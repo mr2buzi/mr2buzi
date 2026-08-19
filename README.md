@@ -2,6 +2,8 @@
 
 Computer Science student at Cardiff University building backend systems, AI-assisted tools, databases and IoT products.
 
+Alongside engineering work, I completed a three-week teaching internship at St Peter's RC School, personally teaching mathematics and computer science to more than 120 students aged 11 to 18.
+
 ## Selected engineering projects
 
 - [Relay-Flow](https://github.com/mr2buzi/Relay-Flow) — Rust workflow execution engine with durable state, retries, idempotent triggers, dead-letter handling, replay and conditional branching.
@@ -9,6 +11,7 @@ Computer Science student at Cardiff University building backend systems, AI-assi
 - [FraudShield](https://github.com/mr2buzi/Fraud-Detector-) — FastAPI/React fraud-operations platform for transaction scoring, alert triage and analyst decisions.
 - [MAO Kitty](https://github.com/mr2buzi/kitty-monitor) — local-first Raspberry Pi monitoring platform using Python, Express, SQLite and React.
 - [Vehicle Simulator](https://github.com/mr2buzi/Vehicle-Simulator) — Python numerical simulation and reproducible report generation.
+- [TikTok Relationship Auditor](https://github.com/mr2buzi/tiktok-relationship-auditor) — Playwright-based relationship auditing with reproducible reports.
 
 ## Private product work
 
