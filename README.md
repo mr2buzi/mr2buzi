@@ -8,7 +8,7 @@ Alongside engineering work, I completed a three-week teaching internship at St P
 
 - [Relay-Flow](https://github.com/mr2buzi/Relay-Flow) — Rust workflow execution engine with durable state, retries, idempotent triggers, dead-letter handling, replay and conditional branching.
 - [Database Control Room](https://github.com/mr2buzi/Database-Control-Room) — relational database prototype and desktop workbench built around SQL parsing, page storage, indexes and transaction concepts.
-- [FraudShield](https://github.com/mr2buzi/Fraud-Detector-) — FastAPI/React fraud-operations platform for transaction scoring, alert triage and analyst decisions.
+- [FraudShield](https://github.com/mr2buzi/fraudshield) — FastAPI/React fraud-operations platform for transaction scoring, alert triage and analyst decisions.
 - [MAO Kitty](https://github.com/mr2buzi/kitty-monitor) — local-first Raspberry Pi monitoring platform using Python, Express, SQLite and React.
 - [Vehicle Simulator](https://github.com/mr2buzi/Vehicle-Simulator) — Python numerical simulation and reproducible report generation.
 - [TikTok Relationship Auditor](https://github.com/mr2buzi/tiktok-relationship-auditor) — Playwright-based relationship auditing with reproducible reports.
